@@ -1,3 +1,11 @@
+---
+name: Writing Editor
+description: A structured writing editing skill for Claude Code that guides you from rough draft to publish-ready, with the author in control of every change.
+author: Martín Volpe
+author_url: https://martinvol.pe/
+license: GPL-3.0
+---
+
 # Writing Editor
 
 A structured writing editing skill for Claude Code that guides you from rough draft to publish-ready, with the author in control of every change.
@@ -36,4 +44,4 @@ Paste your draft when prompted. The skill will walk you through each step and as
 
 ## Author
 
-Created by [Martín Volpe](https://martinvol.pe/blog)
+Created by [Martín Volpe](https://martinvol.pe/)
